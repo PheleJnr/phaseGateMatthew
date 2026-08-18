@@ -1,1 +1,3 @@
 dayOne/javascript/node_modules/
+*.class
+*.jar
