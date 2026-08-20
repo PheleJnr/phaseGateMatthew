@@ -1,7 +1,7 @@
 public class TransactionLogApplication{
     
         
-    public static double accountBalance(double amount){
+    public static double checkAccountBalance(double amount){
         
 //        double balance = 0;
 //                          
