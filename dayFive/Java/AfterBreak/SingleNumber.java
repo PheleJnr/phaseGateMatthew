@@ -8,9 +8,9 @@ public class SingleNumber{
         int actualNumber = 0;
         
                
-        for (int count = 0; count < array.length - 1; count++){
+        for (int count = 0; count < array.length; count++){
         
-            for(int index = 0; index < array.length - 1; index++){
+            for(int index = 0; index < array.length; index++){
                   
                 if(array[count] != array[index]){
                 
